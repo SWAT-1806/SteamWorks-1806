@@ -25,10 +25,10 @@ http://smithvillehighrobotics.com/
 ## Package Functions
 
 - org.team1806.robot
-    This has literally everything that the robot needs to function with
+    * This has literally everything that the robot needs to function with
 - org.team1806.robot.commands
-    These are the commands that run different subsystems, also contains various auto commands
+    * These are the commands that run different subsystems, also contains various auto commands
 - org.team1806.robot.commands.auto
-    Contains all of our different auto routines
+    * Contains all of our different auto routines
 - org.team1806.robot.subsystems
-    Contains methods to control our various subsystems
+    * Contains methods to control our various subsystems
